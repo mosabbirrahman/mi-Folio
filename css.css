@@ -1,140 +1,56 @@
-.body{
+#talk:hover{
+   background-color: blue;
+}
+.manu {
+
+  list-style: none;
+  border: 2px solid rgba(128, 128, 128, 0.315);
+  font-size:20px ;
+  width:40px ;
+  height: 40px;
+  border-radius: 8px;
+  text-align: center;
+  line-height: 40px ;
+   
+}
+#icon:hover{
+  color:rgba(0, 0, 255, 0.603);
+}
+.figma img{
     
-    margin: 40px;
-    background-color:#1a1f2c1c;
-    margin-bottom: 20px;
-    margin-top: -30px;
-    padding-bottom: 20px;
-}
-.nav{
-   
-    margin: 10px;
-    padding: 40px;
-    position: fixed;
-    top: 10px;
-    z-index: 8;
-    margin-top: 40px;
-    margin-bottom: 40px;
-
-}
-.ben{
-    font-size: 24px;
-    font-weight: 600;
-    line-height: 1em;
-    color: #1a1f2c;
-}
-.talk{
-    background-color: #1a1f2c;
-    border-radius: 8px;
-    padding: 16px 24px;
-    font-size: 16px;
-    font-weight: 600; 
-    line-height: 1.2em;
-    margin-left: 16px;
-    color:white ;
-  
-}
-.talk:hover  {
-  background-color: rgba(38, 35, 233, 0.89);
-}
-
-  .manu{
-    display: flex;
-    justify-content: space-between;
-    gap: 20px;
-   
-  }
-  .ma{
-    border: 2px solid red;
-    margin-top: 40px;
-  }
-  .email{
-    padding: 16px 13px;
-    font-size: 15px;
-}
-.face{
-padding-top: 20px;
-padding-right: 40px;
+width: 25px;
 
 }
 .figma{
-  border: 2px solid greenyellow;
+  
+  width: 80px;
+  height: 50px;
+background-color: rgba(128, 128, 128, 0.233);
+
 }
-#pro{
-  
-  padding: 20px;
-  background-color: rgba(128, 128, 128, 0.247);
-  
-}
-.de{
-  
-   margin-left: 40px; 
-   margin-right: 200px; 
-  
+.product{
+ width: 40%;
   text-align: center;
-  padding-right: 3px;
-  padding-left: 3px;
-  background-color: whitesmoke;
-  color: aqua;
-  border-radius: 5px;
+  border-radius: 10px;
+  background-color: rgba(128, 128, 128, 0.164);
   margin-top: -60px;
-  z-index: 10;
+  margin-left: 30px;
 }
 .foter{
   
-  margin-left: 50px;
-  background-color: white;
-  margin-right: 440px;
-  border-radius: 10px;
-  margin-bottom: 65px;
-  
-}
-
-.tex{
-  margin-top: -80px;
-  padding-top: 69px;
-}
-.bc{
-  border: 2px solid goldenrod;
-  background-color: rgba(128, 128, 128, 0.247);
-   margin-right: 70%;
-   margin-left: 20px;
-   border-radius: 10px;
-   margin-bottom: 40px;
-}
-.mc{
-
-  background-color: #F0F2F5;
-    padding: 16px 16px 24px 16px;
-    border-radius: 16px;
-    margin-left: 10px;
-    margin-bottom: 10px;
-}
-  
-.qu{
-  
- height: 120px;
- width: 200px;
- padding: 10px;
- margin: 5px;
-
-}
-.to{
- 
-  background-color: white;
-  margin-left: 67%;
-  margin-right: 5%;
-  margin-top: -41%; 
-  padding: 30px;
-  margin-bottom: 20%;
-  border-radius: 10px;  
-
-
+  margin: 20px;
+  background-color: aliceblue;
+  border-radius: 20px;
 }
 .mar{
-  background-color: rgba(128, 128, 128, 0.082);
+ 
+  background-color: rgba(250, 236, 236, 0.829);
   padding: 10px;
   border-radius: 10px;
-  margin-bottom: 20px;
-  
+  margin-top: 20px;
+  margin: 40px;
+}
+.let{
+  padding-left: 40px;
+  font-size: 50px;
 }
